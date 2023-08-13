@@ -1,0 +1,103 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+    margin: 0px;
+}
+
+.banner {
+    width: 100%;
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    padding-top: 150px;
+}
+
+#banner-title {
+    width: 525px;
+    color: #151414;
+    font-size: 65px;
+    font-weight: 700;
+    margin-left: 850px;
+    margin-bottom: 24px;
+}
+
+#banner-message {
+    width: 494px;
+    color: #444343;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 820px;
+    margin-bottom: 32px;
+}
+
+#banner-btn {
+    border-radius: 5px;
+    background: #F15B22;
+    border-style: none;
+    margin-left: 1170px;
+    padding: 23px;
+    color: #FFF;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 170px;
+}
+
+#person-container {
+    width: 600px;
+    height: 700px;
+    background: rgba(241, 91, 34, 0.20);
+    border-radius: 527.929px;
+
+}
+
+
+.failures-container {
+    align-items: center;
+    display: flex;
+    padding-left: 200px;
+    gap: 100px;
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+
+#failures-list {
+    margin-top: 200px;
+}
+
+#failures-list-heading {
+    width: 288px;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#failures-list-para {
+    width: 416px;
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#failures-ul {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#plans-heading{
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+#web{
+    margin-left: 250px;
+    margin-right: 200px;
+}
+
+#js{
+    margin-right: 200px;
+}
+
+#smoke{
+    margin-right: 200px;
+}
